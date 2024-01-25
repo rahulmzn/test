@@ -1,0 +1,15 @@
+{
+  "prompt": "Generate a Profit and Loss (P&L) graph for BHSF, emphasizing revenue growth. Use the X-axis to represent varying levels of revenue growth. Provide the output in a structured JSON object format, capturing the data points for the graph.",
+  "structure": {
+    "company_name": "BHSF",
+    "profit_loss_graph": {
+      "x_axis_labels": ["Low Growth", "Medium Growth", "High Growth"],
+      "data_points": {
+        "Revenue Growth": [/* Data points for Revenue Growth */]
+      }
+    }
+  },
+  "context": "Include any relevant information about BHSF's revenue growth, and specify the levels of growth to be considered on the X-axis. Additionally, provide any specific context or details that should be reflected in the Revenue Growth graph."
+}
+
+
